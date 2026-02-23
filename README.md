@@ -26,7 +26,7 @@
 ### 📂 Featured JavaScript Projects
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
-| **🕹️ Super-Tic-Tac-Toe** | Classic 2-player game with winning logic. | [Play Here](#) |
+| **🕹️ Super-Tic-Tac-Toe** | Classic 2-player game with winning logic. | [Play Here](https://super-tic-tac-toe-game.vercel.app/) |
 | **⏲️ Counter App** | State management practice with increment/decrement. | [Play Here](#) |
 | **☁️ Weather App** | Fetching real-time data from OpenWeather API. | [Play Here](#) |
 
