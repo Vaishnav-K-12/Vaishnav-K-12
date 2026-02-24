@@ -57,8 +57,8 @@ Here are some of my best projects — check them out!
 | Project | Description | Live / Repo |
 |---------|-------------|-------------|
 | **Super-Tic-Tac-Toe** | Classic 2-player strategy game | [Play](https://super-tic-tac-toe-game.vercel.app/) / [Repo](https://github.com/Vaishnav-K-12/Super-Tic-Tac-Toe-Game) |
-| **QR Code Generator** | Python-based code generator | [Repository](https://github.com/Vaishnav-K-12/QR-Code-Generator-Project1) |
-| **Netflix Clone (UI/UX)** | Frontend clone with Figma guidance | [Repository](https://github.com/Vaishnav-K-12/Netflix-Website-Clone) |
+| **QR Code Generator** | Python-based QR code generator | [Repository](https://github.com/Vaishnav-K-12/QR-Code-Generator-Project1) |
+| **JavaScript Projects** | Collection of interactive JavaScript mini-projects | [Repository](https://github.com/Vaishnav-K-12/JavaScript-Projects) |
 | **Indian Weather App** | Weather app with search & forecast | [Repository](https://github.com/Vaishnav-K-12/Mawesome-India-Weather-App) |
 
 
