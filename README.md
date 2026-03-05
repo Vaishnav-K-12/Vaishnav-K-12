@@ -42,10 +42,13 @@
 <!-- Dynamic GitHub stats cards -->
 <p align="center">
   <!-- Overall GitHub Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Vaishnav-K-12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vaishnav-K-12&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
+  <!-- Profile Stats-->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnav-K-12&theme=github_dark" alt="Profile Stats" />
+  
   <!-- Top Langs -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-K-12&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaishnav-K-12&theme=github_dark" alt="Top Languages By Commits" />
 </p>
 
 ---
